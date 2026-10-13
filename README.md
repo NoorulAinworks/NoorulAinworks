@@ -1,60 +1,55 @@
-<!-- Palette: void #0d0221 | violet #7b2ff7 | lavender #b388ff | hot pink #ff4ecd | cyan #00f0ff -->
+<!-- Palette: void #0d0610 | pink #ff8fc7 | hot pink #ff4fa3 | blush #ffd1e8 | sage #a8c5a0 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2ff7,100:ff4ecd&text=Noorul%20Ain&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=%E2%9C%A6%20data%20%C2%B7%20intelligence%20%C2%B7%20magic%20%E2%9C%A6&descColor=00f0ff&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=58&duration=4000&pause=2500&color=FF8FC7&center=true&vCenter=true&width=640&height=100&lines=Noorul+Ain;%E2%9C%9D+Noorul+Ain+%E2%9C%9D" alt="Noorul Ain" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=B388FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7+turning+raw+data+into+decisions+%E2%9C%A7;%E2%9C%A6+SQL+%7C+Power+BI+%7C+DAX+%7C+SSIS+%E2%9C%A6;%E2%9C%A7+building+in+the+dark%2C+shining+in+the+light+%E2%9C%A7" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=24&duration=3200&pause=900&color=FFD1E8&center=true&vCenter=true&width=640&height=40&lines=time+flies+so+fast%2C+still+learning+everyday+%E2%9C%A6;turning+messy+data+into+pretty+dashboards+%E2%99%A1;sql+%C2%B7+power+bi+%C2%B7+dax+%C2%B7+ssis+%E2%9C%A7" alt="subtitle" />
 </p>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">⛧ about me ⛧</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A6-DARK_MODE_ONLY-0d0221?style=for-the-badge&labelColor=0d0221&color=7b2ff7" />
-  <img src="https://img.shields.io/badge/%E2%9C%A8-DATA_%26_BI-0d0221?style=for-the-badge&labelColor=0d0221&color=ff4ecd" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%8E-ALWAYS_LEARNING-0d0221?style=for-the-badge&labelColor=0d0221&color=00f0ff" />
+  <i>♱ data &amp; business intelligence student<br/>
+  ♱ i build pipelines, models and dashboards that actually make sense<br/>
+  ♱ dark mode forever, pink accents always ♡</i>
 </p>
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ✦ ˚୨୧⋆｡˚ ⋆</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## ✦ about me
-
-```text
-> name       : Noorul Ain
-> path       : Data / Business Intelligence student
-> superpower : making messy data look effortless
-> status     : online, caffeinated, and leveling up
-```
-
-<p align="center">⋆ ˚｡⋆୨୧˚ ✦ ˚୨୧⋆｡˚ ⋆</p>
-
-## ✦ skill arsenal
+<h2 align="center">✦ skills ✦</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-0d0221?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff4ecd&labelColor=0d0221&color=7b2ff7" />
-  <img src="https://img.shields.io/badge/Power_BI-0d0221?style=for-the-badge&logo=powerbi&logoColor=00f0ff&labelColor=0d0221&color=7b2ff7" />
-  <img src="https://img.shields.io/badge/DAX-0d0221?style=for-the-badge&logo=microsoft&logoColor=b388ff&labelColor=0d0221&color=7b2ff7" />
-  <img src="https://img.shields.io/badge/SSIS-0d0221?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff4ecd&labelColor=0d0221&color=7b2ff7" />
+  <img src="https://img.shields.io/badge/SQL_Server-14081A?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFD1E8&labelColor=14081A&color=FF8FC7" />
+  <img src="https://img.shields.io/badge/Power_BI-14081A?style=for-the-badge&logo=powerbi&logoColor=FFD1E8&labelColor=14081A&color=FF8FC7" />
+  <img src="https://img.shields.io/badge/DAX-14081A?style=for-the-badge&labelColor=14081A&color=FF8FC7" />
+  <img src="https://img.shields.io/badge/SSIS-14081A?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFD1E8&labelColor=14081A&color=FF8FC7" />
   <br/>
-  <img src="https://img.shields.io/badge/Data_Warehousing-0d0221?style=for-the-badge&logo=databricks&logoColor=00f0ff&labelColor=0d0221&color=ff4ecd" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-0d0221?style=for-the-badge&logo=apacheairflow&logoColor=b388ff&labelColor=0d0221&color=ff4ecd" />
-  <img src="https://img.shields.io/badge/Data_Modeling-0d0221?style=for-the-badge&logo=diagramsdotnet&logoColor=ff4ecd&labelColor=0d0221&color=ff4ecd" />
+  <img src="https://img.shields.io/badge/Data_Warehousing-14081A?style=for-the-badge&labelColor=14081A&color=A8C5A0" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-14081A?style=for-the-badge&labelColor=14081A&color=A8C5A0" />
+  <img src="https://img.shields.io/badge/Data_Modeling-14081A?style=for-the-badge&labelColor=14081A&color=A8C5A0" />
   <br/>
-  <img src="https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=00f0ff&labelColor=0d0221&color=00f0ff" />
-  <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=b388ff&labelColor=0d0221&color=00f0ff" />
-  <img src="https://img.shields.io/badge/Bash-0d0221?style=for-the-badge&logo=gnubash&logoColor=ff4ecd&labelColor=0d0221&color=00f0ff" />
+  <img src="https://img.shields.io/badge/Git-14081A?style=for-the-badge&logo=git&logoColor=FFD1E8&labelColor=14081A&color=FF4FA3" />
+  <img src="https://img.shields.io/badge/GitHub-14081A?style=for-the-badge&logo=github&logoColor=FFD1E8&labelColor=14081A&color=FF4FA3" />
+  <img src="https://img.shields.io/badge/Bash-14081A?style=for-the-badge&logo=gnubash&logoColor=FFD1E8&labelColor=14081A&color=FF4FA3" />
 </p>
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ✦ ˚୨୧⋆｡˚ ⋆</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## ✦ stats
+<h2 align="center">♡ stats ♡</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NoorulAinworks&show_icons=true&hide_border=false&bg_color=0d0221&title_color=ff4ecd&icon_color=00f0ff&text_color=e0d4ff&border_color=7b2ff7&ring_color=b388ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorulAinworks&layout=compact&bg_color=0d0221&title_color=ff4ecd&text_color=e0d4ff&border_color=7b2ff7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NoorulAinworks&show_icons=true&bg_color=0d0610&title_color=ff8fc7&icon_color=a8c5a0&text_color=ffd1e8&border_color=ff8fc7&ring_color=ff4fa3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorulAinworks&layout=compact&bg_color=0d0610&title_color=ff8fc7&text_color=ffd1e8&border_color=ff8fc7" />
 </p>
-
-<p align="center">⋆ ˚｡⋆୨୧˚ ✦ ˚୨୧⋆｡˚ ⋆</p>
 
 <p align="center">
-  <i>"In a world of raw data, be the dashboard." ✦</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=20&duration=3000&pause=1500&color=FF8FC7&center=true&vCenter=true&width=500&height=35&lines=thanks+for+stopping+by+%E2%9C%A7;come+back+soon+%E2%99%A1" alt="outro" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff4ecd,55:7b2ff7,100:0d0221&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="" />
